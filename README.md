@@ -1,6 +1,6 @@
 
 
-# Introduction:**
+# Introduction
 
 This project demonstrates how katalon studio helps users to automate Canvas applications. Canvas is something a bit tricky to automate so this project contain some of the test cases for Canvas.
 
