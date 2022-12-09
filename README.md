@@ -1,46 +1,48 @@
-# katalon-canvas-sample
 
-**Introduction:**
 
-In this article we are focusing on how katalon studio helps users to automate Canvas applications.
+# Introduction:**
 
-**Let’s begin-
-Canvas-**
+This project demonstrates how katalon studio helps users to automate Canvas applications. Canvas is something a bit tricky to automate so this project contain some of the test cases for Canvas.
+
+# Canvas
+
 The canvas element is part of HTML5 and used to draw graphics on a web page. Users have limited access to DOM for Canvas.
 
-**Prerequisites:(optional)**
-Coordinates Plugin- https://chrome.google.com/webstore/detail/coordinates/bpflbjmbfccblbhlcmlgkajdpoiepmkd	
+Requriments
 
-**Use case:**
+* Katalon Studio
+* Coordinates Plugin- https://chrome.google.com/webstore/detail/coordinates/bpflbjmbfccblbhlcmlgkajdpoiepmkd (optional)
+
+# Use case
 We have two different application which we have used for our sample project
 
-Online calculator(https://www.online-calculator.com//html5/simple/index.php?v=10)
+* Online calculator **(https://www.online-calculator.com//html5/simple/index.php?v=10)**
 
-Kitchen application (https://kitchen.applitools.com/ingredients/canvas)				
+* Kitchen application **(https://kitchen.applitools.com/ingredients/canvas)**
 
-**Test Steps:		**			
+# Test Steps
 
-We are performing calculations (1+8=9) on the calculator.
+* We are performing calculations (1+8=9) on the calculator.
 
-Open the Web application with Canvas.
+* Open the Web application with Canvas.
 
-Capture the Canvas Object.
+* Capture the Canvas Object.
 
-Find the Coordinates for the Targeted Object inside the Canvas. 
+* Find the Coordinates for the Targeted Object inside the Canvas. 
 
-Perform the action. 
+* Perform the action. 
 
 
-**How to automate:**
-Canvas application is completely working on coordinates.
+# How to automate
+* Canvas application is completely working on coordinates.
 
-User have to find the coordinates for the object
+* User have to find the coordinates for the object
 
-Write a test script by using object coordinates.
+* Write a test script by using object coordinates.
 
-Run the test script on the browser.
+* Run the test script on the browser.
 
-Verify the test result.
+* Verify the test result.
 
 **Repository for the Sample Project:**
 https://github.com/katalon-studio-samples/katalon-canvas-sample.git
