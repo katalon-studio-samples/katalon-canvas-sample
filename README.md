@@ -2,13 +2,13 @@
 
 # Introduction
 
-This project demonstrates how katalon studio helps users to automate Canvas applications. Canvas is something a bit tricky to automate so this project contain some of the test cases for Canvas.
+This project demonstrates how katalon studio helps users to automate Canvas applications. Canvas is something a bit tricky to automate so this project contains some of the test cases for Canvas.
 
 # Canvas
 
 The canvas element is part of HTML5 and used to draw graphics on a web page. Users have limited access to DOM for Canvas.
 
-Requriments
+# Requirements
 
 * Katalon Studio
 * Coordinates Plugin- https://chrome.google.com/webstore/detail/coordinates/bpflbjmbfccblbhlcmlgkajdpoiepmkd (optional)
