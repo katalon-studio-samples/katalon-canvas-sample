@@ -6,7 +6,9 @@ This project demonstrates how katalon studio helps users to automate Canvas appl
 
 # Canvas
 
-The canvas element is part of HTML5 and used to draw graphics on a web page. Users have limited access to DOM for Canvas.
+A canvas is a rectangular area on an HTML page, and it is specified with the <canvas> element in HTML 5. 
+
+All the objects inside the canvas can not be accessible via DOM(Xpath/CSS/Property) because of the limited access to DOM users have to find the coordinates for the objects before performing the actions.
 
 ![image](https://user-images.githubusercontent.com/84115288/218056204-eb7b4f83-fc96-4751-9f38-49821534018c.png)
 
