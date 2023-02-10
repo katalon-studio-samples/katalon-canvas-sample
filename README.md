@@ -8,6 +8,9 @@ This project demonstrates how katalon studio helps users to automate Canvas appl
 
 The canvas element is part of HTML5 and used to draw graphics on a web page. Users have limited access to DOM for Canvas.
 
+![image](https://user-images.githubusercontent.com/84115288/218056204-eb7b4f83-fc96-4751-9f38-49821534018c.png)
+
+
 # Requirements
 
 * Katalon Studio
